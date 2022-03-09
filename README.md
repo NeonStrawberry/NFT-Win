@@ -1,2 +1,2 @@
-# NFT-Win
+# NFTWin
 A graphical frontend for NFT
